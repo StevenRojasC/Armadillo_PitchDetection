@@ -1,0 +1,1 @@
+g++ -I /home/steven/downloads/armadillo-11.2.3/include/ pitch_detection.cpp -larmadillo -lblas -lm -llapack
